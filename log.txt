@@ -1,4 +1,5 @@
-1586f03 (HEAD -> main, origin/main, origin/HEAD) task 1.1 complete
+8612d8d task 1.2 complete
+1586f03 task 1.1 complete
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
